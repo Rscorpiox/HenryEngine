@@ -1,0 +1,22 @@
+﻿Build started 7/2/2015 6:40:52 PM.
+     1>Project "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\GameCode\BasicProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.lib" /MACHINE:X86 /SAFESEH D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\GameCommon.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\main_win32.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\TheApplication.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\TheGame.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\Temporary\Engine_Win32_Release\Engine.lib
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\Temporary\Engine2013_Win32_Release\Engine2013.lib
+         Generating code
+         Finished generating code
+         BasicProject.vcxproj -> D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.exe
+       PostBuildEvent:
+         xcopy /Y /F /I "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.exe" "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Run_Win32\"
+         :VCEnd
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Release\BasicProject.exe -> D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Run_Win32\BasicProject.exe
+         1 File(s) copied
+     1>Done Building Project "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\GameCode\BasicProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.35

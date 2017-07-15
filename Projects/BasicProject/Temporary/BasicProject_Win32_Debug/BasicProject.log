@@ -1,0 +1,20 @@
+﻿Build started 7/2/2015 6:36:24 PM.
+     1>Project "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\GameCode\BasicProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\../../ /ZI /nologo /W4 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\\" /Fd"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TheApplication.cpp TheGame.cpp main_win32.cpp
+         TheApplication.cpp
+         TheGame.cpp
+         main_win32.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\BasicProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\BasicProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\BasicProject.lib" /MACHINE:X86 D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\GameCommon.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\main_win32.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\TheApplication.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\Temporary\BasicProject_Win32_Debug\TheGame.obj
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\Temporary\Engine_Win32_Debug\Engine.lib
+         D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\Temporary\Engine2013_Win32_Debug\Engine2013.lib
+     1>LINK : fatal error LNK1104: cannot open file 'D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\Temporary\Engine_Win32_Debug\Engine.lib'
+     1>Done Building Project "D:\Guildhall\P4\Dai_Henry_Alienware\C23\Students\hdai\Projects\SD5\BasicProject\GameCode\BasicProject.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.10
